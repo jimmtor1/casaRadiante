@@ -1,6 +1,6 @@
 /* Estilos específicos para la página */
 .hero-section {
-  background: url('assets/principal.png') no-repeat center center;
+  background: url('../assets/principal.png') no-repeat center center;
   background-size: cover;
   color: #fff;
   text-align: center;
